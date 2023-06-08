@@ -1,2 +1,0 @@
-# courseratask
-for coursera class
